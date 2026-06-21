@@ -22,14 +22,14 @@ No installation needed — it's a single static file.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Vikram1014/chemadmet.git
+   git clone https://github.com/Vikram1014/chemADMET.git
    ```
 2. Open `index.html` in any browser, or serve it locally:
    ```bash
    npx serve .
    ```
 
-**Live demo:** _add your GitHub Pages link here once enabled_
+**Live demo:** _add your GitHub Pages link here once enabled_ (Settings → Pages → main branch → root)
 
 ## ⚠️ Disclaimer
 
@@ -45,3 +45,10 @@ Toxicity and ADMET predictions in this tool are **computational estimates** base
 ## 📄 License
 
 MIT — feel free to use and adapt.
+
+## 👤 Author
+
+**Vikram S**
+📍 Coimbatore
+🔗 [LinkedIn](https://linkedin.com/in/vikram1014)
+🔗 [GitHub](https://github.com/Vikram1014)
