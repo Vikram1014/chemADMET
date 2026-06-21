@@ -29,7 +29,7 @@ No installation needed  it's a single static file.
    npx serve .
    ```
 
-**Live demo:** _add your GitHub Pages link here once enabled_ (Settings → Pages → main branch → root)
+**Live demo:** 
 
 ## ⚠️ Disclaimer
 
