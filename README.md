@@ -22,7 +22,7 @@ No installation needed — it's a single static file.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/chemadmet.git
+   git clone https://github.com/Vikram1014/chemadmet.git
    ```
 2. Open `index.html` in any browser, or serve it locally:
    ```bash
